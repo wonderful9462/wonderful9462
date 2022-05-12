@@ -16,11 +16,7 @@ I am currently majoring in Data Science at [USTC](http://english.ustc.edu.cn/)
 </p>  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
-![C](https://img.shields.io/badge/C-ef4136?style=flat&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
-![Pycharm](https://img.shields.io/badge/Pycharm-black?style=flat&logo=pycharm&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-00DB00?style=flat&logo=anaconda&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook%20-%23F37626?style=flat&logo=Jupyter&logoColor=white)
 ![SQL](http://img.shields.io/badge/SQL-CC2927?style=flat&logo=SQL&logoColor=ffffff)
 ![MATLAB](https://img.shields.io/badge/MATLAB-004B97?style=flat&logo=matlab&logoColor=white)
 ![Mathematica](https://img.shields.io/badge/Mathematica-EA0000?style=flat&logo=wolframmathematica&logoColor=white)
@@ -28,12 +24,10 @@ I am currently majoring in Data Science at [USTC](http://english.ustc.edu.cn/)
 ![Latex](https://img.shields.io/badge/Latex-black?style=flat&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
 ![Adobe Photoshop](http://img.shields.io/badge/Adobe_Photoshop-0066CC?style=flat&logo=adobephotoshop&logoColor=ffffff)
 ![Keras](http://img.shields.io/badge/Keras-red?style=flat&logo=keras&logoColor=ffffff)
 ![PyTorch](http://img.shields.io/badge/PyTorch-f58220?style=flat&logo=pytorch&logoColor=ffffff)
-![TensorFlow](http://img.shields.io/badge/TensorFlow-faa755?style=flat&logo=tensorflow&logoColor=ffffff)
 
 ----------
 ### Contact me:
