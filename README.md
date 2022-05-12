@@ -36,4 +36,17 @@ I am currently majoring in Data Science at [USTC](http://english.ustc.edu.cn/)
 ![TensorFlow](http://img.shields.io/badge/TensorFlow-faa755?style=flat&logo=tensorflow&logoColor=ffffff)
 
 ----------
+### Contact me:
+
+- Email: [![Email](https://img.shields.io/badge/xf9462@mail.ustc.edu.cn-D14836?style=flat-square&logoColor=white)](mailto:xf9462@mail.ustc.edu.cn)
+- Tencent QQ: ![tencent QQ](https://img.shields.io/badge/1989592242-black?style=flat-square&logo=tencentqq&logoColor=white)
+- WeChat: ![WeChat](https://img.shields.io/badge/豆-04BE02?style=flat-square&logo=wechat&logoColor=white)
+----------
+### Game:
+- Steam: [![Steam](https://img.shields.io/badge/422709650-003D79?style=flat-square&logo=steam&logoColor=white)](https://store.steampowered.com/)
+- Epic: [![Epic](https://img.shields.io/badge/hehaha68-black?style=flat-square&logo=epicgames&logoColor=white)](https://www.epicgames.com/)
+- Origin: [![Origin](https://img.shields.io/badge/YorickHe-FF8000?style=flat-square&logo=origin&logoColor=white)](https://www.origin.com/)
+
+
+------
 You can also follow my friend in USTC： [Yorick](https://github.com/hehaha68)
