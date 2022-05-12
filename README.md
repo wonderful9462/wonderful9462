@@ -12,7 +12,7 @@ I am currently majoring in Data Science at [USTC](http://english.ustc.edu.cn/)
 ### Languages and Tools:
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonerful9462&layout=compact&langs_count=8&hide=Jupyter%20Notebook&theme=dark" alt="Wonderful's Public Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonderful9462&layout=compact&langs_count=8&hide=Jupyter%20Notebook&theme=dark">
 </p>  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
