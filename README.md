@@ -8,7 +8,6 @@ I am currently majoring in Data Science at [USTC](http://english.ustc.edu.cn/)
 💬 Ask me about anything, I am happy to help;
 📫 Please email me if you have any questions.
 
---- 
 ----------
 ### Languages and Tools:
 
