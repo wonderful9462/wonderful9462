@@ -43,10 +43,7 @@ I am currently majoring in Data Science at [USTC](http://english.ustc.edu.cn/)
 - WeChat: ![WeChat](https://img.shields.io/badge/豆-04BE02?style=flat-square&logo=wechat&logoColor=white)
 ----------
 ### Game:
-- Steam: [![Steam](https://img.shields.io/badge/422709650-003D79?style=flat-square&logo=steam&logoColor=white)](https://store.steampowered.com/)
-- Epic: [![Epic](https://img.shields.io/badge/hehaha68-black?style=flat-square&logo=epicgames&logoColor=white)](https://www.epicgames.com/)
-- Origin: [![Origin](https://img.shields.io/badge/YorickHe-FF8000?style=flat-square&logo=origin&logoColor=white)](https://www.origin.com/)
-
+- Steam: [![Steam](https://img.shields.io/badge/红色尖叫好喝-003D79?style=flat-square&logo=steam&logoColor=white)](https://store.steampowered.com/)
 
 ------
 You can also follow my friend in USTC： [Yorick](https://github.com/hehaha68)
