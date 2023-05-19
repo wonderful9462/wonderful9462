@@ -36,8 +36,4 @@ I am currently majoring in Data Science at [USTC](http://en.ustc.edu.cn)
 - Tencent QQ: ![tencent QQ](https://img.shields.io/badge/1989592242-black?style=flat-square&logo=tencentqq&logoColor=white)
 - WeChat: ![WeChat](https://img.shields.io/badge/豆-04BE02?style=flat-square&logo=wechat&logoColor=white)
 ----------
-### Game:
-- Steam: [![Steam](https://img.shields.io/badge/红色尖叫好喝-003D79?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198816194770/)
-
-------
 You can also follow my friend in USTC： [Yorick](https://github.com/hehaha68)
