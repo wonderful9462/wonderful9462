@@ -2,7 +2,7 @@
 <img src="https://profile-counter.glitch.me/{wonderful9462}/count.svg" alt="wonderful9462 :: Visitor's Count" /></p>
 
 I am currently majoring in Data Science at [USTC](http://en.ustc.edu.cn)
-- 👨🏽‍💻 I’m currently a collage student at my 3th year;
+- 👨🏽‍💻 I’m currently a collage student at my 4th year;
 - 💡 My interests are machine learning,software development etc..;
 - 🏤 I’m pursuing a Bachelor's degree in Data Science;
 - 💬 Ask me about anything, I am happy to help;
