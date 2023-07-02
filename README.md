@@ -34,6 +34,5 @@ I am currently majoring in Data Science at [USTC](http://en.ustc.edu.cn)
 
 - Email: [![Email](https://img.shields.io/badge/xf9462@mail.ustc.edu.cn-D14836?style=flat-square&logoColor=white)](mailto:xf9462@mail.ustc.edu.cn)
 - Tencent QQ: ![tencent QQ](https://img.shields.io/badge/1989592242-black?style=flat-square&logo=tencentqq&logoColor=white)
-- WeChat: ![WeChat](https://img.shields.io/badge/豆-04BE02?style=flat-square&logo=wechat&logoColor=white)
 ----------
 You can also follow my friend in USTC： [Yorick](https://github.com/hehaha68)
