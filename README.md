@@ -2,9 +2,9 @@
 <img src="https://profile-counter.glitch.me/{wonderful9462}/count.svg" alt="wonderful9462 :: Visitor's Count" /></p>
 
 I am currently majoring in Data Science at [USTC](http://en.ustc.edu.cn)
-- 👨🏽‍💻 I’m currently a collage student at my 4th year;
-- 💡 My interests are machine learning,software development etc..;
-- 🏤 I’m pursuing a Bachelor's degree in Data Science;
+- 👨🏽‍💻 I’m currently in my first year of graduate school;
+- 💡 My interests are natural language processing, inference acceleration and interpretability in neural network;
+- 🏤 I’m pursuing a master's degree in Artificial Intelligence;
 - 💬 Ask me about anything, I am happy to help;
 - 📧 Please email me if you have any questions.
 
@@ -33,6 +33,6 @@ I am currently majoring in Data Science at [USTC](http://en.ustc.edu.cn)
 ### Contact me:
 
 - Email: [![Email](https://img.shields.io/badge/xf9462@mail.ustc.edu.cn-D14836?style=flat-square&logoColor=white)](mailto:xf9462@mail.ustc.edu.cn)
-- Tencent QQ: ![tencent QQ](https://img.shields.io/badge/1989592242-black?style=flat-square&logo=tencentqq&logoColor=white)
+- Wechat: red-scream-tasty
 ----------
-You can also follow my friend in USTC： [Yorick](https://github.com/hehaha68)
+You can also follow my friend in USTC： [Yorick](https://github.com/hehaha68) and [opanhw](https://github.com/opanhw)
