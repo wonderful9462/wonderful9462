@@ -1,7 +1,7 @@
 ### Hi there 👋I'm Wonderful
 <img src="https://profile-counter.glitch.me/{wonderful9462}/count.svg" alt="wonderful9462 :: Visitor's Count" /></p>
 
-I am currently majoring in Data Science at [USTC](http://en.ustc.edu.cn)
+I am currently majoring in Artificial Intelligence at [USTC](http://en.ustc.edu.cn).
 - 👨🏽‍💻 I’m currently in my second year of graduate school;
 - 💡 My interests are natural language processing, inference acceleration and interpretability in neural network;
 - 🏤 I’m pursuing a master's degree in Artificial Intelligence;
@@ -32,4 +32,4 @@ I am currently majoring in Data Science at [USTC](http://en.ustc.edu.cn)
 - Email: [![Email](https://img.shields.io/badge/xf9462@mail.ustc.edu.cn-D14836?style=flat-square&logoColor=white)](mailto:xf9462@mail.ustc.edu.cn)
 - Wechat: red-scream-tasty
 ----------
-You can also follow my friends in USTC and appreciate their wonderful work: [Yorick](https://github.com/hehaha68) and [opanhw](https://github.com/opanhw)
+You can also follow my friends in USTC and appreciate their wonderful work: [Yorick](https://github.com/hehaha68) and [opanhw](https://github.com/opanhw).
