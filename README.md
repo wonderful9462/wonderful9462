@@ -2,7 +2,7 @@
 <img src="https://profile-counter.glitch.me/{wonderful9462}/count.svg" alt="wonderful9462 :: Visitor's Count" /></p>
 
 I am currently majoring in Data Science at [USTC](http://en.ustc.edu.cn)
-- 👨🏽‍💻 I’m currently in my first year of graduate school;
+- 👨🏽‍💻 I’m currently in my second year of graduate school;
 - 💡 My interests are natural language processing, inference acceleration and interpretability in neural network;
 - 🏤 I’m pursuing a master's degree in Artificial Intelligence;
 - 💬 Ask me about anything, I am happy to help;
