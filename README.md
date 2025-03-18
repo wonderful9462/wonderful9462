@@ -5,8 +5,7 @@ I am currently majoring in Artificial Intelligence at [USTC](http://en.ustc.edu.
 - 👨🏽‍💻 I’m currently in my second year of graduate school;
 - 💡 My interests are natural language processing, inference acceleration and interpretability in neural network;
 - 🏤 I’m pursuing a master's degree in Artificial Intelligence;
-- 💬 Ask me about anything, I am happy to help;
-- 📧 Please email me if you have any questions.
+- 📧 Please email me if you have any questions, I am happy to help.
 
 ----------
 ### Languages and Tools:
