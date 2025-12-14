@@ -1,5 +1,4 @@
 ### Hi there 👋I'm Wonderful
-<img src="https://profile-counter.glitch.me/{wonderful9462}/count.svg" alt="wonderful9462 :: Visitor's Count" /></p>
 
 I am currently majoring in Artificial Intelligence at [USTC](http://en.ustc.edu.cn).
 - 👨🏽‍💻 I’m currently in my second year of graduate school;
