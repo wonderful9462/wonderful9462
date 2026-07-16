@@ -1,10 +1,5 @@
 ### Hi there 👋I'm Wonderful
-
-I am currently majoring in Artificial Intelligence at [USTC](http://en.ustc.edu.cn).
-- 👨🏽‍💻 I’m currently in my second year of graduate school;
-- 💡 My interests are natural language processing, inference acceleration and interpretability in neural network;
-- 🏤 I’m pursuing a master's degree in Artificial Intelligence;
-- 📧 Please email me if you have any questions, I am happy to help.
+I am currently a Researcher at [StepFun](https://stepfun.ai/). I received my Master's degree in Artificial Intelligence from [USTC](http://en.ustc.edu.cn). Please email me if you have any questions, I am happy to help.
 
 ----------
 ### Languages and Tools:
